@@ -39,7 +39,12 @@ body {
 }
 
 .nav__item:hover {
-    border: 2px solid #FF6767;
+    background-image: linear-gradient(
+     to right,
+     #dd2476 0%,
+     #ff512f 51%,
+     #dd2476 100%
+    );
     cursor: pointer;
 
 }
