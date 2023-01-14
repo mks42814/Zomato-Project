@@ -418,5 +418,16 @@ a {
         margin-top: 8%;
     }
 
+}
+
+@media (min-width: 1800px) {
+    .explore__menu__container {
+        margin: 22% 0;
+    }
+
+    .footer__container {
+        margin-top: 15%;
+    }
+
 
 }
